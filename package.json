@@ -1,0 +1,32 @@
+{
+  "name": "resume-website",
+  "version": "1.0.0",
+  "description": "my own little portfolio",
+  "keywords": [
+    "portfolio"
+  ],
+  "homepage": "https://github.com/Dezagon/portfolio-website-enhanced#readme",
+  "bugs": {
+    "url": "https://github.com/Dezagon/portfolio-website-enhanced/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dezagon/portfolio-website-enhanced.git"
+  },
+  "license": "ISC",
+  "author": "Antonio Hernandez",
+  "type": "commonjs",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.6",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.6"
+  },
+  "devDependencies": {
+    "prettier": "^3.5.3",
+    "prettier-plugin-tailwindcss": "^0.6.11"
+  }
+}
